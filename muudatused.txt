@@ -1,0 +1,13 @@
+**Student Table:**
+- Email: Tudengi e-posti aadress.
+- Phone Number: Tudengi telefoninumber.
+- Address: Tudengi aadress.
+- Emergency Contact: Hädaolukorra kontakt.
+- Enrollment Date: Registreerimise kuupäev.
+- Status: Tudengi staatuse info.
+
+**Stgroup Table:**
+- Group Head: Grupi juht või vastutav isik.
+- Creation Date: Grupi loomise kuupäev.
+- Budget: Grupi eelarve.
+- Meeting Schedule: Grupi koosolekute ajakava.
